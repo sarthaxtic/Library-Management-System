@@ -6,9 +6,7 @@ password=("admin")
 while choicee==1:
     
     print('''                   Welcome to the library database management system
-                                                                  Made by:Prateek Vashishth
-                                                                                 and
-                                                                          Sarthak Chandvaria                  ''')
+                ''')
     print("press 1 if you are a member")
     print("press 2 if you are an administrator")
     ch=int(input("Enter your choice"))
